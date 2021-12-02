@@ -2,7 +2,7 @@
    <div> -->
    [![Twitter: sakthinaveenm](https://img.shields.io/twitter/follow/ms_naveen7?style=social)](https://twitter.com/ms_naveen7)
 [![Linkedin: sakthinaveenm](https://img.shields.io/badge/-sakthinaveenm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sakthinaveenm/)](https://www.linkedin.com/in/sakthinaveen/)
-[![GitHub sakthinaveenm](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/sakthinaveenm)
+[![GitHub sakthinaveenm](https://img.shields.io/github/followers/sakthinaveenm?label=follow&style=social)](https://github.com/sakthinaveenm)
    <p style="display:flex;flex-direction:row;" >
 <img  src="https://github-readme-stats.vercel.app/api?username=sakthinaveenm&show_icons=true&theme=tokyonight" />
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sakthinaveenm&theme=tokyonight" />
